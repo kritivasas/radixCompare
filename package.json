@@ -1,0 +1,14 @@
+{
+  "name": "indix",
+  "version": "0.0.0",
+  "description": "",
+  "main": "filereader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kritivasas Shukla",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "node-html-to-text": "git+https://github.com/kritivasas/node-html-to-text"
+  }
+}
